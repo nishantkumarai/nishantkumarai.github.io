@@ -1,2 +1,5 @@
 # nishantkumarai.github.io
-My Portfolio
+My Portfolio 
+[LinkedIn](https://www.linkedin.com/in/nishantkumarai/)
+[Twitter](https://twitter.com/nishantkumarai)
+[]()
